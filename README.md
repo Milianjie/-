@@ -1,11 +1,6 @@
 # README
 该存储库用于存储C语言编写的简单学生成绩管理系统
 ****
-### Author:e云竹
-### E-mail：eyunzhu@foxmail.com
-### 个人博客：http://blog.csdn.net/eyunzhu
-### 个人网站：www.eyunzhu.com
-### QQ:1036795373
 
 #### 主要功能
 * 系统登陆
