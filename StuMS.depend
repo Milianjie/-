@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1493808713 source:d:\3学习类--------------------c语言计导 flsh  ps\c语言\文件\stums\main.c
+	<stdio.h>
+	<stdlib.h>
+	"head.h"
+
+1493808713 d:\3学习类--------------------c语言计导 flsh  ps\c语言\文件\stums\head.h
+
+1493808713 source:c:\users\liqinghua\documents\github\stums\main.c
+	<stdio.h>
+	<stdlib.h>
+	"head.h"
+
+1493808713 c:\users\liqinghua\documents\github\stums\head.h
+
